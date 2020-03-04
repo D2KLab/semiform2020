@@ -73,7 +73,7 @@ Raphaël Troncy is an Associate Professor at the Data Science Department of EURE
 ![Freddy Lecue](https://pbs.twimg.com/profile_images/552883563238920193/1_gVArDH_400x400.png){: .profile-pic}
 ### Freddy Lecue
 #### CortAIx, Thales, Montreal, Canada
-[website](http://www-sop.inria.fr/members/Freddy.Lecue/)
+[mail](mailto:freddy.lecue@thalesgroup.com) - [website](http://www-sop.inria.fr/members/Freddy.Lecue/)
 
 <p class="textblock" markdown="1">
 
@@ -85,8 +85,7 @@ Freddy Lecue (PhD 2008, Habilitation 2015) Dr. Freddy Lecue is the Chief Artific
 <section markdown="1">
 
 
-# Program Committee
-(confirmation >50%)
+# Program Committee (to be confirmed)
 
 - Ahmet Aker (University of Sheffield, UK and University of Duisburg-Essen, Germany)
 - Martin Atzmueller (University of Kassel, Germany)

@@ -48,13 +48,9 @@ Includes but not limited to:
 
 SEMIFORM will be a full-day workshop and will consist of (a) invited talks, one from academia, and one from a fact-checking organisation, (b) peer-reviewed short papers (up to 4 pages long) and long papers (up to 8 pages long), (c) poster and demo session, and a (d) panel and discussion session. Accepted papers will have the chance to be included in the Journal of Semantic Web special issue on Web Content Credibility.
 
-# Audience
-
-Given the heightened interest in the topic of misinformation, and its relevance to numerous disciplines and semantic web research topic and tracks, we expect the workshop to attract around 30 to 40 attendees, and around 15-20 submissions of short or full papers. Workshop will be widely disseminated through multiple social media channels and mailing lists, including numerous research projects on the topic of misinformation.
-
 # Community
 
-Research on misinformation has been increasing in recent years, with papers emerging in a vast number of conferences, including ISWC, ESWC, The Web Conf., IJCAI, to name just a few, and journals such as Semantic Web Journal, PLOS ONE and PNAS. Workshops that tackle the general research and analysis of misinformation have been organised recently, such as RumourEval 2019, ICWSM Digital Misinformation 2017, ESWC KNOW 2020 and RDSM 2020. Through our SEMIFORM workshop, we aim to raise the topic of misinformation in ISWC; the flagship conference of the semantic web community, and to bring together researchers from a complementary range of disciplines, including semantic knowledge graphs, network analysis, social semantics, social data science, web science, and natural language processing.
+Research on misinformation has been increasing in recent years, with papers emerging in a vast number of conferences, including ISWC, ESWC, The Web Conf., IJCAI, to name just a few, and journals such as Semantic Web Journal, PLOS ONE and PNAS. Workshops that tackle the general research and analysis of misinformation have been organised recently, such as RumourEval 2019, ICWSM Digital Misinformation 2017, ESWC KNOW 2020 and RDSM 2020. Through our SEMIFORM workshop, we aim to raise the topic of misinformation in ISWC -- the flagship conference of the semantic web community -- and to bring together researchers from a complementary range of disciplines, including semantic knowledge graphs, network analysis, social semantics, social data science, web science, and natural language processing.
 
 Examples of recent external relevant publications:
 1. Fernandez, Miriam and Alani, Harith (2018). **Online Misinformation: Challenges and Future Directions**. In: _WWW'18 Companion: The 2018 Web Conference Companion_, ACM, New York, pp. 595–602.
