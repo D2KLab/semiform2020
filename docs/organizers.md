@@ -85,8 +85,9 @@ Freddy Lecue (PhD 2008, Habilitation 2015) Dr. Freddy Lecue is the Chief Artific
 <section markdown="1">
 
 
-# Program Committee (to be confirmed)
+# Program Committee (to be detailed)
 
+<!--
 - Ahmet Aker (University of Sheffield, UK and University of Duisburg-Essen, Germany)
 - Martin Atzmueller (University of Kassel, Germany)
 - Alessandro Bessi (University of Southern California, Marina del Rey, USA)
@@ -110,3 +111,4 @@ Freddy Lecue (PhD 2008, Habilitation 2015) Dr. Freddy Lecue is the Chief Artific
 - Antoniadis Sotirios (Athens University of Economics and Business, Greece)
 - Konstantin Todorov (University of Montpellier, France)
 - Michela Del Vicario (IMT Lucca, Italy)
+-->
