@@ -13,7 +13,7 @@ navigation_weight: 2
 ![Harith Alani](https://pbs.twimg.com/profile_images/1174632694829002757/SSnZPRf0_400x400.jpg){: .profile-pic}
 ### Harith Alani
 #### The Open University, UK
-[mail](mailto:h.alani@open.ac.uk) - [website](http\://people.kmi.open.ac.uk/harith/)
+[mail](mailto:h.alani@open.ac.uk) - [website](http://people.kmi.open.ac.uk/harith/)
 
 <p class="textblock" markdown="1">
 
@@ -27,7 +27,7 @@ A Full Professor in KMi, OU, leading the Social Data Science group. Harith publi
 ![Kalina Bontcheva](https://pbs.twimg.com/profile_images/339342509/kalina_400x400.jpg){: .profile-pic}
 ### Kalina Bontcheva
 #### University of Sheffield, UK
-[mail](mailto:k.bontcheva@sheffield.ac.uk) - [website](http\://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/)
+[mail](mailto:k.bontcheva@sheffield.ac.uk) - [website](http://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/)
 
 <p class="textblock" markdown="1">
 
