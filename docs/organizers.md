@@ -13,7 +13,7 @@ navigation_weight: 2
 ![Harith Alani](https://pbs.twimg.com/profile_images/1174632694829002757/SSnZPRf0_400x400.jpg){: .profile-pic}
 ### Harith Alani
 #### The Open University, UK
-[mail](mailto:h.alani@open.ac.uk) - [website](http://people.kmi.open.ac.uk/harith/)
+[mail](mailto:h.alani@open.ac.uk) - [website](http\://people.kmi.open.ac.uk/harith/)
 
 <p class="textblock" markdown="1">
 
