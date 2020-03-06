@@ -13,11 +13,11 @@ navigation_weight: 2
 ![Harith Alani](https://pbs.twimg.com/profile_images/1174632694829002757/SSnZPRf0_400x400.jpg){: .profile-pic}
 ### Harith Alani
 #### The Open University, UK
-[mail](mailto:h.alani@open.ac.uk) - [website](people.kmi.open.ac.uk/harith/)
+[mail](mailto:h.alani@open.ac.uk) - [website](http://people.kmi.open.ac.uk/harith/)
 
 <p class="textblock" markdown="1">
 
-A Full Professor in KMi, OU, where he leads the Social Data Science group. Harith published over 150 scientific papers in various leading journals and conferences. He was co-organiser of 9 workshops, and occupied prominent roles in the Organisation Committee of many international conferences, including ISWC, ESWC, The Web Conf, Web Science Conf., and IJCAI. Prof Alani is the architect and OU Principal Investigator of H2020 Co-Inform project (co-inform.eu), which is investigating misinformation patterns and detection methods on social media. He was Coordinator of H2020 DecarboNet and COMRADES projects. His expertise in misinformation and social media analysis is core to this workshop.
+A Full Professor in KMi, OU, leading the Social Data Science group. Harith published over 150 scientific papers in various leading journals and conferences. He has occupied prominent roles in the Organisation Committee of many international conferences, including ISWC, The Web Conf, and WebSci. Prof Alani is the architect and OU Principal Investigator of H2020 Co-Inform project (co-inform.eu), which is investigating misinformation patterns and detection methods on social media. He was Coordinator of H2020 DecarboNet and COMRADES projects. His expertise in misinformation and social media analysis is core to this workshop.
 </p>
 
 </section>
@@ -27,7 +27,7 @@ A Full Professor in KMi, OU, where he leads the Social Data Science group. Harit
 ![Kalina Bontcheva](https://pbs.twimg.com/profile_images/339342509/kalina_400x400.jpg){: .profile-pic}
 ### Kalina Bontcheva
 #### University of Sheffield, UK
-[mail](mailto:k.bontcheva@sheffield.ac.uk) - [website](http://www.dcs.shef.ac.uk/~kalina/)
+[mail](mailto:k.bontcheva@sheffield.ac.uk) - [website](http://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/)
 
 <p class="textblock" markdown="1">
 
