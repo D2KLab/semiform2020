@@ -46,7 +46,7 @@ Includes but not limited to:
 
 # Workshop Format
 
-SEMIFORM will be a full-day workshop and will consist of (a) invited talks, one from academia, and one from a fact-checking organisation, (b) peer-reviewed short papers (up to 4 pages long) and long papers (up to 8 pages long), (c) poster and demo session, and a (d) panel and discussion session. Accepted papers will have the chance to be included in the Journal of Semantic Web special issue on Web Content Credibility.
+SEMIFORM will be a half-day workshop and will consist of (a) invited talks, one from academia, and one from a fact-checking organisation, (b) peer-reviewed short papers (up to 4 pages long) and long papers (up to 8 pages long), (c) poster and demo session, and a (d) panel and discussion session. Accepted papers will have the chance to be included in the Journal of Semantic Web special issue on Web Content Credibility.
 
 # Community
 
