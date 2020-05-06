@@ -2,7 +2,7 @@
 title: Call for papers
 layout: default
 
-navigation_weight: 1
+navigation_weight: 2
 
 ---
 
