@@ -33,9 +33,8 @@ Includes but not limited to:
 - Using Linked Open Data as a source of factual information
 
 
-# Workshop Format
-
-SEMIFORM will be a full-day workshop and will consist of (a) invited talks, one from academia, and one from a fact-checking organisation, (b) peer-reviewed short papers (up to 4 pages long) and long papers (up to 8 pages long), (c) poster and demo session, and a (d) panel and discussion session. Accepted papers will be invited to submit to journal special issue on Web Content Credibility.
+# Submission
+Submission can be as short papers (up to 4 pages long) and long papers (up to 8 pages long), excluding references. Accepted papers will be invited to submit to a forthcoming Journal of Web Semantics special issue on Web Content Credibility. All submissions must be in PDF and written in English, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see Springer’s Author Instructions (http://www.springer.com/computer/lncs?%20SGWID=0-164-6-793341-0).
 
 
 # Dates
