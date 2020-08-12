@@ -34,7 +34,7 @@ Includes but not limited to:
 
 
 # Submission
-Submission can be as short papers (up to 4 pages long) and long papers (up to 8 pages long), excluding references. Accepted papers will be invited to submit to a forthcoming Journal of Web Semantics special issue on Web Content Credibility. All submissions must be in PDF and written in English, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see [Springer’s Author Instructions](http://www.springer.com/computer/lncs?%20SGWID=0-164-6-793341-0). SEMIFORM proceedings will be published with CEUR-WS.org. The submission web site is https://www.easychair.org/conferences/?conf=semiform2020
+Submission can be as short papers (up to 4 pages long) and long papers (up to 8 pages long), excluding references. Accepted papers will be invited to submit to a forthcoming Journal of Web Semantics special issue on Web Content Credibility. All submissions must be in PDF and written in English, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see [Springer’s Author Instructions](http://www.springer.com/computer/lncs?%20SGWID=0-164-6-793341-0). SEMIFORM proceedings will be published with CEUR-WS.org. The submission web site is [https://www.easychair.org/conferences/?conf=semiform2020](https://www.easychair.org/conferences/?conf=semiform2020)
 
 
 # Dates
