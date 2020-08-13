@@ -39,7 +39,7 @@ Submission can be as short papers (up to 4 pages long) and long papers (up to 8 
 
 # Dates
 
-Workshop papers submissions - August 10, 2020
+Workshop papers submissions - ~~August 10, 2020~~  ... until September 15, 2020
 
 Notification                - September 11, 2020
 

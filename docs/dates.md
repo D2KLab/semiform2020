@@ -8,7 +8,7 @@ navigation_weight: 3
 
 # Dates
 
-Workshop papers submissions - August 10, 2020
+Workshop papers submissions - ~~August 10, 2020~~ ... until September 15, 2020
 
 Notification                - September 11, 2020
 

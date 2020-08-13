@@ -5,6 +5,9 @@ layout: default
 navigation_weight: 1
 ---
 
+# News
+
+While the submission deadline expired, and given that this workshop and the main [ISWC 2020 conference](https://iswc2020.semanticweb.org/) are now virtual events, we are happy to continue receiving [new submissions](https://www.easychair.org/conferences/?conf=semiform2020) until **September 15th**. 
 
 # Motivation
 
