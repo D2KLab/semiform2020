@@ -10,8 +10,8 @@ navigation_weight: 3
 
 Workshop papers submissions - ~~August 10, 2020~~ ... until September 15, 2020
 
-Notification                - September 11, 2020
+Notification                - ~~September 11, 2020~~ ... September 30, 2020
 
-Camera Ready Submission     - September 21, 2020
+Camera Ready Submission     - ~~September 21, 2020~~ ... October 15, 2020
 
-Publication of Proceedings  - October 2, 2020
+Publication of Proceedings  - ~~October 2, 2020~~ ... October 30, 2020
