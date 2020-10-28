@@ -11,11 +11,11 @@ navigation_weight: 4
 The SEMIFORM workshop will take place on **Monday 2nd November, 2020** on **Zoom**. The registered participants will receive the link from the conference organisers. The schedule given below is in Central European Time (Paris) or GMT+1.
 
 | 14:00 - 14:10	| Welcome by the chair |
-| 14:10 - 15:00	| Keynote Talk - Carolina Scarton (University of Sheffield) - WeVerify: Wider and Enhanced Verification for You |
-| 15:00 - 15:20	| Dniel Kazenoff, Oshani Seneviratne and Deborah McGuinness. Semantic Graph Analysis to Combat Cryptocurrency Misinformation on the Web |
+| 14:10 - 15:00	| **Keynote Talk** Carolina Scarton (University of Sheffield) - *WeVerify: Wider and Enhanced Verification for You* |
+| 15:00 - 15:20	| Dniel Kazenoff, Oshani Seneviratne and Deborah McGuinness. *Semantic Graph Analysis to Combat Cryptocurrency Misinformation on the Web* |
 | **15:20 - 15:50**	| **Coffee Break** |
-| 15:50 - 16:10	| Giuseppe Pirrò. Fact-checking via Path Embedding and Aggregation |
-| 16:10 - 16:30	| Ronald Denaux and Jose Manuel Gomez-Perez. Towards Crowdsourcing Tasks for Accurate Misinformation Detection |
+| 15:50 - 16:10	| Giuseppe Pirrò. *Fact-checking via Path Embedding and Aggregation* |
+| 16:10 - 16:30	| Ronald Denaux and Jose Manuel Gomez-Perez. *Towards Crowdsourcing Tasks for Accurate Misinformation Detection* |
 
 # Keynote Talk
 
@@ -26,7 +26,7 @@ The SEMIFORM workshop will take place on **Monday 2nd November, 2020** on **Zoom
 ![Carol Scarton](https://carolscarton.github.io/img/CScarton-format.jpg){: .profile-pic}
 ### Carol Scarton
 #### University of Sheffield, UK
-[twitter](@carolscarton) - [website](https://carolscarton.github.io)
+[twitter](http://twitter.com/carolscarton) - [website](https://carolscarton.github.io)
 
 <p class="textblock" markdown="1">
 
