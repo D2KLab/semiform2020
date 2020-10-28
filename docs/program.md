@@ -21,12 +21,6 @@ The SEMIFORM workshop will take place on **Monday 2nd November, 2020** on **Zoom
 
 ## WeVerify: Wider and Enhanced Verification for You
 
-*Abstract*:
-
-Misinformation being spread online is a great issue in our society, having a negative impact on societal debates, elections, healthcare, among others. Online misinformation can also spread fast, reaching out to millions of people. For instance, misinformation about COVID-19 has reached "misinfodemic" scale, with a worldwide spread similar to the pandemic itself. Fact-checkers are then focusing most of their effort on this topic, although it is not feasible to manually debunk every piece of misinformation. Therefore, in addition to
-practical verification skills, journalists and media organisations are increasingly in need of collaborative verification tools, assistance through intelligent algorithms for automatic content verification, and the ability to cross-check quickly whether a given claim or media item has already been proven false by other fact-checking organisations. In
-this talk I will present an overview of the WeVerify project and the tools it develops for human-in-the-loop content verification and disinformation analysis. I will focus on our work using Natural Language Processing for detecting and debunking online misinformation. Finally, our work on dealing with COVID-19 misinformation will also be presented.
-
 <section markdown="1">
 
 ![Carol Scarton](https://carolscarton.github.io/img/CScarton-format.jpg){: .profile-pic}
@@ -40,3 +34,8 @@ Carolina Scarton is an Academic Fellow at the Department of Computer Science, Un
 </p>
 
 </section>
+
+### Abstract
+Misinformation being spread online is a great issue in our society, having a negative impact on societal debates, elections, healthcare, among others. Online misinformation can also spread fast, reaching out to millions of people. For instance, misinformation about COVID-19 has reached "misinfodemic" scale, with a worldwide spread similar to the pandemic itself. Fact-checkers are then focusing most of their effort on this topic, although it is not feasible to manually debunk every piece of misinformation. Therefore, in addition to
+practical verification skills, journalists and media organisations are increasingly in need of collaborative verification tools, assistance through intelligent algorithms for automatic content verification, and the ability to cross-check quickly whether a given claim or media item has already been proven false by other fact-checking organisations. In
+this talk I will present an overview of the WeVerify project and the tools it develops for human-in-the-loop content verification and disinformation analysis. I will focus on our work using Natural Language Processing for detecting and debunking online misinformation. Finally, our work on dealing with COVID-19 misinformation will also be presented.
