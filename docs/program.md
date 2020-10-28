@@ -14,10 +14,12 @@ The SEMIFORM workshop will take place on **Monday 2nd November, 2020** on **Zoom
 | 14:10-15:00	| Keynote Talk - Carolina Scarton (University of Sheffield) - WeVerify: Wider and Enhanced Verification for You |
 | 15:00-15:20	| Dniel Kazenoff, Oshani Seneviratne and Deborah McGuinness. Semantic Graph Analysis to Combat Cryptocurrency Misinformation on the Web |
 | **15:20-15:50**	| **Coffee Break** |
-| 15:50-16:10	| Giuseppe Pirrò. Fact-checking via Path Embedding and Aggregation |
+| 15:50-16:10	| Giuseppe PirrÃ². Fact-checking via Path Embedding and Aggregation |
 | 16:10-16:30	| Ronald Denaux and Jose Manuel Gomez-Perez. Towards Crowdsourcing Tasks for Accurate Misinformation Detection |
 
-** Keynote Talk: WeVerify: Wider and Enhanced Verification for You **
+# Keynote Talk
+
+## WeVerify: Wider and Enhanced Verification for You
 
 *Abstract*:
 
