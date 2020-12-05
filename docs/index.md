@@ -7,6 +7,8 @@ navigation_weight: 1
 
 # News
 
+The workshop proceedings has been published as part of the [Advances in Semantics and Linked Data: Joint Workshop Proceedings from ISWC 2020](http://ceur-ws.org/Vol-2722/), CEUR Volume 2722.
+
 While the submission deadline expired, and given that this workshop and the main [ISWC 2020 conference](https://iswc2020.semanticweb.org/) are now virtual events, we are happy to continue receiving [new submissions](https://www.easychair.org/conferences/?conf=semiform2020) until **September 15th**. 
 
 # Motivation
